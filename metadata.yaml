@@ -1,0 +1,35 @@
+_repo: From-the-Easy-Chair-series-2_35980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+description: ''
+gutenberg_issued: '2011-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+tableOfContents: The new year -- The public scold -- National nominating convention
+  -- Byrant's country -- The game of Newport -- The lecture Lyceum -- Tweed -- Commencment
+  -- The streets of New York -- The morality of dancing -- The hog family -- The enlightened
+  observer -- Ralph Waldo Emerson -- Henry Ward Beecher -- The golden age -- Spring
+  pictures -- Proper and improper -- Belinda and the vulgar -- Decayed gentility --
+  The Pharisee -- Lady Mavourneen on her travels -- General Sherman -- The American
+  girl -- Annus mirabilis -- Statues in Central Park -- The grand tour -- "Easy does
+  it, guvner" -- Siste, viator -- Christendom vs. Christianity -- Francis George Shaw.
+title: From the Easy Chair, Volume 2
+url: http://www.gutenberg.org/ebooks/35980
