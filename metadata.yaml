@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2048
     wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35980#From-the-Easy-Chair-series-2
 gutenberg_issued: '2011-04-27'
 gutenberg_type: Text
 identifiers:
